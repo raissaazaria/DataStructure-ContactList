@@ -15,11 +15,11 @@ public:
   cin>>fName;
   cout<<"Enter your last name: ";
   cin>>lName;
-  cout<<"Enter phone: ";
+  cout<<"Enter your phone number: ";
   cin>>phNo;
-  cout<<"Enter address: ";
+  cout<<"Enter your address: ";
   cin>>address;
-  cout<<"Enter email: ";
+  cout<<"Enter your email: ";
   cin>>email;
  }
 
